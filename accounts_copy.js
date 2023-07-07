@@ -6,7 +6,7 @@ const accounts = [
         privateKey : '',
         // eth 帐户地址
         ethFromAddress:'',
-        // startknet 帐户地址
+        // starknet 帐户地址
         skAccountAddress:''
     }
 ]
